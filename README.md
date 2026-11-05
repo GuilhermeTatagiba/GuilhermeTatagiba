@@ -12,6 +12,6 @@ I'm interested in using data, optimisation and machine learning to solve operati
 - [Inverse Image Captioning](https://github.com/GuilhermeTatagiba/inverse-image-captioning): custom Stable Diffusion pipeline with image guidance
 - [PT→EN Neural Translation](https://github.com/GuilhermeTatagiba/pt-en-neural-translation): GRU and Transformer translators built from scratch
 
-**Tools:** Python · SQL · Power BI · PyTorch · TensorFlow · SAP
+**Tools:** Python · SQL · Power BI · PyTorch · TensorFlow
 
 🇧🇷 Portuguese · 🇫🇷 French · 🇬🇧 English
